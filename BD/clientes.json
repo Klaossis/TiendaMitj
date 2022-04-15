@@ -1,0 +1,3 @@
+{"_id":{"$oid":"6258a054d76eef7fc1d12657"},"nombre":"prueba cliente","apellido":"prueba cliente","empresa":"prueba","email":"pcliente@pcliente.com","telefono":"33112233","__v":0}
+{"_id":{"$oid":"6259d66f7ec00f770d359cb8"},"nombre":"Ossiris Alexis","apellido":"Gomez Ceballos","empresa":"RaccoonSoft","email":"ossiris_33@hotmail.com","telefono":"3317599462","__v":0}
+{"_id":{"$oid":"6259d68d7ec00f770d359cb9"},"nombre":"Onassis Ramses","apellido":"Gomez Ceballos","empresa":"RaccoonSoft","email":"onassis_33@hotmail.com","telefono":"12312312","__v":0}
